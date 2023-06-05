@@ -8,7 +8,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashsousa&layout=compact&show_icons=true&theme=midnight-purple&count_private=true&%22/%3E" alt="oie"/>
 <div/>
   
-<div style="display: inline_block"><br>
+<hr> 
+<div style="display: inline_block">
   <img align="center" alt="Lubs-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lubs-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lubs-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">

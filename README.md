@@ -1,7 +1,7 @@
-<h1> Salve 👋 <h1/>
-<h3> Meu nome é Lucas, estou voltando para a faculdade de Sistemas de Informação <h3/>
+### Salve 👋
+<h4> Meu nome é Lucas e estou voltando para a faculdade de sistemas de informação <h4/>
  
-- 🖥️ I’m currently working on ...
+- 🖥️ Estudando HTML ...
 - 🌱 I’m currently learning ...
 
 <div>

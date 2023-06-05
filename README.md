@@ -1,9 +1,9 @@
 ### Salve 👋
 <h4> Meu nome é Lucas e estou voltando para a faculdade de sistemas de informação <h4/>
  
-- 🖥️ Estudando HTML ...
-- 🌱 I’m currently learning ...
-
+- 🖥️ Estudando HTML
+ 
+<hr> 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucashsousa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="oie"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashsousa&layout=compact&show_icons=true&theme=midnight-purple&count_private=true&%22/%3E" alt="oie"/>

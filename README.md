@@ -1,6 +1,7 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
+<h1> Salve 👋 <h1/>
+<h3> Meu nome é Lucas, estou voltando para a faculdade de Sistemas de Informação <h3/>
+ 
+- 🖥️ I’m currently working on ...
 - 🌱 I’m currently learning ...
 
 <div>

@@ -1,7 +1,8 @@
 <p>
-<img align="right" height="600" src="https://i.pinimg.com/originals/d3/f8/b0/d3f8b048434c85c40986e84b8ce8e534.jpg">
+<img align="right" height="550" src="https://i.pinimg.com/originals/d3/f8/b0/d3f8b048434c85c40986e84b8ce8e534.jpg">
 <p/>
-### Salve 👋
+
+<h1> Salve 👋 <h1/>
 <h4> Meu nome é Lucas e estou voltando para a faculdade de sistemas de informação <h4/>
  
 - 🖥️ Estudando HTML

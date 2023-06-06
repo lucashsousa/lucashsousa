@@ -1,11 +1,9 @@
 ### Salve 👋
 <p>
-<img align="right" height="500" src="https://i.pinimg.com/originals/d3/f8/b0/d3f8b048434c85c40986e84b8ce8e534.jpg">
+<img align="right" height="460" src="https://i.pinimg.com/originals/d3/f8/b0/d3f8b048434c85c40986e84b8ce8e534.jpg">
 <p/>
 
-<h4> Meu nome é Lucão e estou buscando uma xereca bem molhada <h4/>
- 
-- 🖥️ Estudando HTML
+<h3>🖥️ Voltando para a faculdade de Sistemas <h3/>
  
 <hr> 
 <div>

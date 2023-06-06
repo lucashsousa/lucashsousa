@@ -1,6 +1,6 @@
 ### Salve 👋
 <p>
-<img align="right" height="500" src="https://i.pinimg.com/originals/a2/e0/f3/a2e0f31030cd20e520883d0cc12f48f0.gif">
+<img align="right" height="500" width="330" src="https://i.pinimg.com/originals/a2/e0/f3/a2e0f31030cd20e520883d0cc12f48f0.gif">
 <p/>
 
 <h3>🖥️ Voltando para a faculdade de Sistemas <h3/>

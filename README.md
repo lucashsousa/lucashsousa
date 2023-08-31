@@ -18,5 +18,3 @@
   <img align="center" alt="Lubs-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Lubs-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <div/>
-
-![Snake animation](https://github.com/lucashsousa/lucashsousa/blob/output/github-contribution-grid-snake.svg)
